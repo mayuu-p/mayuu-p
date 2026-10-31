@@ -1,47 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:100719,35:30102D,72:7B174B,100:170D27&text=Mayur%20Pisal.&fontSize=64&fontColor=FFF4FA&fontAlign=8&fontAlignY=42&desc=ASPIRING%20CYBERSECURITY%20FOUNDER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descSize=13&descAlign=8&descAlignY=61&animation=fadeIn" width="100%" alt="Mayur Pisal — Cybersecurity Founder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06152E,25:063B78,55:0877C9,80:16B8D4,100:071B3A&height=250&section=header&text=MAYUR%20PISAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%20%E2%80%A2%20%20TECHNOLOGY%20%20%E2%80%A2%20%20FOUNDER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Mayur Pisal — blue cyber profile banner" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=48DDF5&center=true&vCenter=true&width=720&lines=THINK.+BUILD.+SECURE.+SCALE.;Engineering+the+future+of+digital+security.;Building+real+products.+Learning+every+day." alt="Animated tagline" />
+
+<br/><br/>
+
+<a href="https://mayuu-p.github.io/Mayuu/"><img src="https://img.shields.io/badge/PORTFOLIO-0877C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/mayuu-p?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-102D50?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://github.com/mayuu-p"><img src="https://img.shields.io/badge/GITHUB-071B2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=mayuu-p&style=for-the-badge&color=0877C9&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+---
 
-<sub>✦ &nbsp; ENGINEERING · SECURITY · CREATIVE TECHNOLOGY</sub>
+<div align="center">
+
+<sub>01 / THE PERSON BEHIND THE CODE</sub>
 
 # Hello, I'm Mayur.
 
-**I build digital experiences and explore the systems that keep them secure.**
+**Aspiring Cybersecurity Founder · Developer · Technology Enthusiast**
 
-Aspiring cybersecurity founder with a passion for software engineering, ethical hacking, backend systems, and digital infrastructure.
+I turn ideas into working digital products and explore how the systems behind them can be built, scaled, and secured.
 
-My long-term ambition is to build a **Cybersecurity Control Centre** that helps businesses protect their applications, servers, networks, and data.
+My long-term mission is to build a **Cybersecurity Control Centre** focused on helping protect businesses, applications, servers, networks, and digital infrastructure.
 
-<br/>
-
-<a href="https://mayuu-p.github.io/Mayuu/"><img src="https://img.shields.io/badge/PORTFOLIO-9B245B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/mayuu-p?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-32172D?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://github.com/mayuu-p"><img src="https://img.shields.io/badge/GITHUB-181018?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://avatars.githubusercontent.com/u/233776486?v=4" width="190" alt="Mayur's GitHub avatar" />
-
-<br/>
-
-<strong>MAYUR PISAL</strong>
-
-<sub>FOUNDER IN THE MAKING</sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=E58AB5&center=true&vCenter=true&width=650&lines=Think+with+clarity.;Build+with+purpose.;Secure+what+matters." alt="Think with clarity. Build with purpose. Secure what matters." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=600&color=38BDF8&center=true&vCenter=true&width=650&lines=Curiosity+is+the+starting+point.;Execution+is+the+difference.;Security+is+the+responsibility." alt="Animated principles" />
 
 </div>
 
@@ -49,36 +41,17 @@ My long-term ambition is to build a **Cybersecurity Control Centre** that helps 
 
 <div align="center">
 
-<sub>01 — THE PROFILE</sub>
+<sub>02 / TECHNOLOGY STACK</sub>
 
-## A little about me
-
-</div>
-
-I enjoy turning ideas into working products — from customer-facing web applications to the backend systems that power them. I learn by building, testing, breaking things safely, and improving the result.
-
-| FOCUS | WHAT I'M EXPLORING |
-|:--|:--|
-| Cybersecurity | Security fundamentals, ethical hacking, defensive thinking |
-| Development | Full-stack web applications and responsive interfaces |
-| Backend | APIs, authentication, databases and real-time systems |
-| Infrastructure | Linux, servers, cloud and system architecture |
-
----
-
-<div align="center">
-
-<sub>02 — THE TOOLKIT</sub>
-
-## Technologies & tools
+## The tools I work with
 
 **DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql&theme=dark" alt="HTML, CSS, JavaScript, Python, PHP, MySQL" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql&theme=dark" alt="HTML, CSS, JavaScript, Python, PHP and MySQL" />
 
-**BACKEND · DATABASE · ENVIRONMENT**
+**BACKEND · DATABASE · SYSTEMS**
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,linux,bash,vscode,ubuntu&theme=dark" alt="Supabase, Firebase, Git, GitHub, Linux, Bash, VS Code, Ubuntu" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,linux,bash,vscode,ubuntu&theme=dark" alt="Supabase, Firebase, Git, GitHub, Linux, Bash, VS Code and Ubuntu" />
 
 </div>
 
@@ -86,75 +59,53 @@ I enjoy turning ideas into working products — from customer-facing web applica
 
 <div align="center">
 
-<sub>03 — SELECTED WORK</sub>
+<sub>03 / SELECTED PROJECTS</sub>
 
-## Projects I've built
-
-*Real projects. Practical problems. Continuous improvement.*
+## Built to solve real problems.
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### ◈ QR Restaurant Ordering System
+A QR-based ordering platform connecting customers, restaurant staff, and owners through dedicated dashboards and live order workflows.
 
-### QR Restaurant Ordering
+[Explore my GitHub repositories →](https://github.com/mayuu-p?tab=repositories)
 
-A QR-based ordering platform connecting customers, staff, and restaurant owners through dedicated dashboards.
+### ◈ Dairy Management
+A digital platform for dairy operations, records, and day-to-day management.
 
-<a href="https://github.com/mayuu-p?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-9B245B?style=flat-square&logo=github&logoColor=white" alt="View repositories" /></a>
+[Open Dairy Management →](https://mayuu-p.github.io/Dairy-Management-/)
 
-</td>
-<td width="50%" valign="top">
+### ◈ Medical Store ERP
+A pharmacy management project focused on billing, inventory, and stock workflows.
 
-### Dairy Management
+[Open Medical Store →](https://mayuu-p.github.io/Medical-Store/)
 
-A digital management platform for dairy operations, records, and day-to-day workflows.
+### ◈ Personal Portfolio
+My digital home for projects, skills, and the journey ahead.
 
-<a href="https://mayuu-p.github.io/Dairy-Management-/"><img src="https://img.shields.io/badge/OPEN_PROJECT-9B245B?style=flat-square&logo=googlechrome&logoColor=white" alt="Open dairy management" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Medical Store ERP
-
-A pharmacy management project focused on billing, stock, and inventory workflows.
-
-<a href="https://mayuu-p.github.io/Medical-Store/"><img src="https://img.shields.io/badge/OPEN_PROJECT-9B245B?style=flat-square&logo=googlechrome&logoColor=white" alt="Open medical store" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Personal Portfolio
-
-My online space for showcasing projects, skills, and the journey ahead.
-
-<a href="https://mayuu-p.github.io/Mayuu/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-9B245B?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-
-</td>
-</tr>
-</table>
+[Visit Portfolio →](https://mayuu-p.github.io/Mayuu/)
 
 ---
 
 <div align="center">
 
-<sub>04 — GITHUB ACTIVITY</sub>
+<sub>04 / GITHUB ANALYTICS</sub>
 
-## The contribution log
+## Activity. Progress. Consistency.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayuu-p&show_icons=true&hide_border=true&bg_color=170F19&title_color=E58AB5&icon_color=D36A9B&text_color=EADDE5&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuu-p&layout=compact&hide_border=true&bg_color=170F19&title_color=E58AB5&text_color=EADDE5" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mayuu-p&show_icons=true&hide_border=true&bg_color=07182B&title_color=38BDF8&icon_color=22D3EE&text_color=E6F6FF&rank_icon=github" width="100%" alt="GitHub statistics" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mayuu-p&theme=dark&hide_border=true&background=170F19&ring=E58AB5&fire=D36A9B&currStreakLabel=E58AB5&sideLabels=EADDE5&dates=B9A5B1" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuu-p&layout=compact&hide_border=true&bg_color=07182B&title_color=38BDF8&text_color=E6F6FF" width="100%" alt="Most used languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuu-p&bg_color=170F19&color=EADDE5&line=D36A9B&point=F5B8D2&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://streak-stats.demolab.com?user=mayuu-p&theme=transparent&hide_border=true&background=07182B&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6F6FF&dates=8BAFC7" width="100%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuu-p&bg_color=07182B&color=E6F6FF&line=0891B2&point=67E8F9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
@@ -162,27 +113,41 @@ My online space for showcasing projects, skills, and the journey ahead.
 
 <div align="center">
 
-<sub>05 — THE VISION</sub>
+<sub>05 / CURRENT FOCUS</sub>
 
-## Building toward something bigger.
+## What I'm sharpening
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:170D27,45:4A173B,100:9B245B&text=CYBERSECURITY%20CONTROL%20CENTRE&fontSize=25&fontColor=FFF4FA&fontAlignY=43&desc=Protecting%20the%20digital%20world%2C%20one%20system%20at%20a%20time.&descSize=12&descAlignY=65" width="100%" alt="Cybersecurity Control Centre vision" />
+| DOMAIN | DIRECTION |
+|:--|:--|
+| Cybersecurity | Security fundamentals, ethical hacking, defensive security |
+| Engineering | Full-stack applications and clean architecture |
+| Backend | APIs, authentication, databases, real-time systems |
+| Infrastructure | Linux, servers, networking, cloud |
+| Product Building | Useful tools that solve real operational problems |
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>06 / THE LONG-TERM VISION</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06152E,30:064B87,65:0877C9,100:16B8D4&height=190&section=header&text=CYBERSECURITY%20CONTROL%20CENTRE&fontSize=27&fontColor=FFFFFF&fontAlignY=42&desc=Building%20towards%20a%20safer%20digital%20world.&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Cybersecurity Control Centre blue vision banner" />
+
+### Not just using technology. Building it. Securing it. Scaling it.
 
 <br/>
 
-*Not here to look busy. Here to build things that matter.*
-
-**Think clearly. Build boldly. Protect relentlessly.**
-
-<br/>
-
-<a href="https://github.com/mayuu-p"><img src="https://img.shields.io/badge/LET'S_CONNECT-9B245B?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-<a href="https://mayuu-p.github.io/Mayuu/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-32172D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My portfolio" /></a>
+<a href="https://github.com/mayuu-p"><img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-0877C9?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+<a href="https://mayuu-p.github.io/Mayuu/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-102D50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
 
 <br/><br/>
 
-<sub>THANK YOU FOR VISITING · MAYUR PISAL © 2026</sub>
+**THINK. BUILD. SECURE. SCALE.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9B245B,50:4A173B,100:170D27&section=footer" width="100%" alt="Footer" />
+<sub>THANK YOU FOR VISITING · MAYUR PISAL · 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16B8D4,45:0877C9,100:06152E&height=110&section=footer" width="100%" alt="Blue wave footer" />
 
 </div>
