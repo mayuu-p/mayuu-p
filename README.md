@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06152E,25:063B78,55:0877C9,80:16B8D4,100:071B3A&height=250&section=header&text=MAYUR%20PISAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%20%E2%80%A2%20%20TECHNOLOGY%20%20%E2%80%A2%20%20FOUNDER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Mayur Pisal — blue cyber profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06152E,25:063B78,55:0877C9,80:16B8D4,100:071B3A&height=250&section=header&text=MAYUR%20PISAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%20%E2%80%A2%20%20TECHNOLOGY%20%20%E2%80%A2%20%20FOUNDER&descSize=15&descAlignY=58&animation=twinkling" width="100%" alt="Mayur Pisal — blue cyber profile banner" />
 
 <br/>
 
@@ -133,7 +133,7 @@ My digital home for projects, skills, and the journey ahead.
 
 <sub>06 / THE LONG-TERM VISION</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06152E,30:064B87,65:0877C9,100:16B8D4&height=190&section=header&text=CYBERSECURITY%20CONTROL%20CENTRE&fontSize=27&fontColor=FFFFFF&fontAlignY=42&desc=Building%20towards%20a%20safer%20digital%20world.&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Cybersecurity Control Centre blue vision banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06152E,30:064B87,65:0877C9,100:16B8D4&height=190&section=header&text=CYBERSECURITY%20CONTROL%20CENTRE&fontSize=27&fontColor=FFFFFF&fontAlignY=42&desc=Building%20towards%20a%20safer%20digital%20world.&descSize=13&descAlignY=62&animation=twinkling" width="100%" alt="Cybersecurity Control Centre blue vision banner" />
 
 ### Not just using technology. Building it. Securing it. Scaling it.
 
